@@ -1,2 +1,8 @@
 "my name is sharu"
+<<<<<<< HEAD
 "Sharu"
+=======
+"my name"
+
+>>>>>>> feature1
+"End"
